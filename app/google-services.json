@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "311582556123",
+    "firebase_url": "https://kidsupp-34.firebaseio.com",
+    "project_id": "kidsupp-34",
+    "storage_bucket": "kidsupp-34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311582556123:android:ddcf213b4638601cf8b1fe",
+        "android_client_info": {
+          "package_name": "gore.kafana.kidsup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311582556123-skhaf382n711nt239qhg7hooid5fmqtc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "gore.kafana.kidsup",
+            "certificate_hash": "5e1e30adf968067d3906cf90461dad44de5a8e2c"
+          }
+        },
+        {
+          "client_id": "311582556123-8dao47vjq72nal7noea42c4iq371638c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk-dyp5L8w4AM6uNVcJOyuaDVvehF-UdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311582556123-8dao47vjq72nal7noea42c4iq371638c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311582556123:android:228fad569e9327a8f8b1fe",
+        "android_client_info": {
+          "package_name": "gore.kafana.kidsupp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311582556123-8dao47vjq72nal7noea42c4iq371638c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk-dyp5L8w4AM6uNVcJOyuaDVvehF-UdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311582556123-8dao47vjq72nal7noea42c4iq371638c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311582556123:android:151605e35653c715f8b1fe",
+        "android_client_info": {
+          "package_name": "gore.kafana.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311582556123-8dao47vjq72nal7noea42c4iq371638c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk-dyp5L8w4AM6uNVcJOyuaDVvehF-UdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311582556123-8dao47vjq72nal7noea42c4iq371638c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
